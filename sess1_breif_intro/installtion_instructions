@@ -1,0 +1,11 @@
+Install Python using https://www.youtube.com/watch?v=dX2-V2BocqQ&t=62s
+Install google cloud using : pip install google-cloud
+Set up google API key (apikey.json) 
+activate service key, refer to YouTube in References
+Set envirmental variable of google application credential : Set GOOGLE_APPLICATION_CREDNTIALs=apikey.json
+Example: Google cloud Vision API
+Writing your python script, here is visionz.py
+Test image, here is car.jpg
+References: 
+https://www.youtube.com/watch?v=tqFk8bzv2ys&t=382s
+https://www.youtube.com/watch?v=dX2-V2BocqQ
