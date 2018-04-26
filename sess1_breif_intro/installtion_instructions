@@ -6,6 +6,7 @@ Set envirmental variable of google application credential : Set GOOGLE_APPLICATI
 Example: Google cloud Vision API
 Writing your python script, here is visionz.py
 Test image, here is car.jpg
+Note: you should put your .json file in your current working directory
 References: 
 https://www.youtube.com/watch?v=tqFk8bzv2ys&t=382s
 https://www.youtube.com/watch?v=dX2-V2BocqQ
